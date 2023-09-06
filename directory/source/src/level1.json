@@ -1,0 +1,5 @@
+[
+  { "dir": "level3.json", "path": "path/to/folder", "type": "folder" },
+  { "dir": "level2.json", "path": "path/to/folder", "type": "folder" },
+  { "dir": "level1.json", "path": "path/to/file", "type": "file" }
+]
